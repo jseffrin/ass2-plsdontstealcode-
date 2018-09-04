@@ -1,0 +1,49 @@
+﻿  Camera.cpp
+c:\users\manuel\downloads\camera.cpp(42): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manuel\downloads\camera.cpp(43): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manuel\downloads\camera.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manuel\downloads\camera.cpp(215): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\manuel\downloads\camera.cpp(216): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\manuel\downloads\camera.cpp(217): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\manuel\downloads\camera.cpp(276): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manuel\downloads\camera.cpp(282): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manuel\downloads\camera.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manuel\downloads\camera.cpp(354): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\manuel\downloads\camera.cpp(398): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manuel\downloads\camera.cpp(399): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manuel\downloads\camera.cpp(434): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\manuel\downloads\camera.cpp(439): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\manuel\downloads\camera.cpp(443): warning C4101: 'new_dest_dir': unreferenced local variable
+c:\users\manuel\downloads\camera.cpp(768): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manuel\downloads\camera.cpp(769): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manuel\downloads\camera.cpp(774): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manuel\downloads\camera.cpp(775): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manuel\downloads\camera.cpp(780): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manuel\downloads\camera.cpp(781): warning C4305: '=': truncation from 'double' to 'float'
+  Frustum.cpp
+c:\users\manuel\downloads\frustum.cpp(9): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Ground.cpp
+c:\users\manuel\downloads\ground.cpp(21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\manuel\downloads\ground.cpp(22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\manuel\downloads\ground.cpp(24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\manuel\downloads\ground.cpp(25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  HUD.cpp
+c:\users\manuel\downloads\hud.cpp(16): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  KeyManager.cpp
+  main.cpp
+c:\users\manuel\downloads\main.cpp(20): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Messages.cpp
+c:\users\manuel\downloads\messages.cpp(239): warning C4018: '<': signed/unsigned mismatch
+  Obstacle.cpp
+c:\users\manuel\downloads\obstacle.cpp(13): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  ObstacleManager.cpp
+  Quaternion.cpp
+  RemoteDataManager.cpp
+  Shape.cpp
+c:\users\manuel\downloads\shape.cpp(12): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  VectorMaths.cpp
+c:\users\manuel\downloads\vectormaths.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Vehicle.cpp
+c:\users\manuel\downloads\vehicle.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  Assessment 2.cpp
+  Generating Code...
